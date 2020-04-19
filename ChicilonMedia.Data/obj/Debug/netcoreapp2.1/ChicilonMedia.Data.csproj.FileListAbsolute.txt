@@ -1,0 +1,16 @@
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\ChicilonMedia.Data.deps.json
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\ChicilonMedia.Data.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.csproj.CoreCompileInputs.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.AssemblyInfoInputs.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.AssemblyInfo.cs
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\ChicilonMedia.Data.pdb
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\ChicilonMedia.Utilities.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\ChicilonMedia.Utilities.pdb
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.csprojAssemblyReference.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.csproj.CopyComplete
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\obj\Debug\netcoreapp2.1\ChicilonMedia.Data.pdb
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.xml

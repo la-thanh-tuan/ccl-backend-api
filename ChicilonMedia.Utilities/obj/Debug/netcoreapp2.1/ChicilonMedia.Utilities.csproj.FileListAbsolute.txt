@@ -1,0 +1,9 @@
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\bin\Debug\netcoreapp2.1\ChicilonMedia.Utilities.deps.json
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\bin\Debug\netcoreapp2.1\ChicilonMedia.Utilities.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\bin\Debug\netcoreapp2.1\ChicilonMedia.Utilities.pdb
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.csprojAssemblyReference.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.AssemblyInfoInputs.cache
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.AssemblyInfo.cs
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.dll
+C:\Users\latha\Desktop\src\ChicilonMedia\ChicilonMedia.Utilities\obj\Debug\netcoreapp2.1\ChicilonMedia.Utilities.pdb

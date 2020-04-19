@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ChicilonMedia.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "ChicilonMedia.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChicilonMedia.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChicilonMedia.Data.dll": {}
+        }
+      },
+      "ChicilonMedia.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ChicilonMedia.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChicilonMedia.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChicilonMedia.Data/1.0.0": {
+      "type": "project",
+      "path": "../ChicilonMedia.Data/ChicilonMedia.Data.csproj",
+      "msbuildProject": "../ChicilonMedia.Data/ChicilonMedia.Data.csproj"
+    },
+    "ChicilonMedia.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../ChicilonMedia.Utilities/ChicilonMedia.Utilities.csproj",
+      "msbuildProject": "../ChicilonMedia.Utilities/ChicilonMedia.Utilities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "ChicilonMedia.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\latha\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\latha\\Desktop\\src\\ChicilonMedia\\ChicilonMedia.API\\ChicilonMedia.API.csproj",
+      "projectName": "ChicilonMedia.API",
+      "projectPath": "C:\\Users\\latha\\Desktop\\src\\ChicilonMedia\\ChicilonMedia.API\\ChicilonMedia.API.csproj",
+      "packagesPath": "C:\\Users\\latha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\latha\\Desktop\\src\\ChicilonMedia\\ChicilonMedia.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\latha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Users\\latha\\Desktop\\src\\ChicilonMedia\\ChicilonMedia.Data\\ChicilonMedia.Data.csproj": {
+              "projectPath": "C:\\Users\\latha\\Desktop\\src\\ChicilonMedia\\ChicilonMedia.Data\\ChicilonMedia.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
